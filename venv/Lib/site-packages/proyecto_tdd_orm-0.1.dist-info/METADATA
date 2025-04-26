@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: proyecto_tdd_orm
+Version: 0.1
+Requires-Dist: pytest
+Requires-Dist: sqlalchemy
+Dynamic: requires-dist
